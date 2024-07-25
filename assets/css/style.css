@@ -193,7 +193,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #1338be;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(https://github.com/MichaelK17/aboutme/blob/main/assets/images/portfolio/202406_Chiyoda_frontrow_vertical.JPG?raw=true)no-repeat;
+    background:url(https://raw.githubusercontent.com/MichaelK17/aboutme/main/assets/images/portfolio/202406_Chiyoda_frontrow_vertical.JPG)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
